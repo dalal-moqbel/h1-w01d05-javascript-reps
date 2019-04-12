@@ -132,7 +132,12 @@ return num*2;
 *  Write a `for` loop so that the function outputs all values between 0 and any number passed into the `maxNum` parameter.
    
 ```js
-// your answer here
+// function printnum(maxnum){
+  for(var i=0; i<=maxnum;i++)
+  {
+    console.log(i);
+  }
+  }
 ```
 
   function printnum(maxnum){
