@@ -148,7 +148,9 @@ return num*2;
 *  Create a variable `favoriteMovies` that is equal to an array of your 5 favorite movies:
 
 ```js
-// your answer here
+// 
+
+var favoriteMovies=['catch me', 'anne with e','train to the bosan','orphan','splite'];
 ```
 var favoriteMovies=['catch me', 'anne with e','train to the bosan','orphan,'splite'];
 
@@ -156,19 +158,19 @@ var favoriteMovies=['catch me', 'anne with e','train to the bosan','orphan,'spli
 
 
 ```js
-// your answer here
+// 
 ```favoriteMovies[2]='Toy Story 3';
 console.log(favoriteMovies[2]);
 
 *   How would you remove the last movie from that array?
 ```js
-// your answer here
+// 
 ```favoriteMovies.pop('splite');
 
 *   **Write a function** called `addMovie` that takes a parameter of `newMovie` that adds that movie to the end of the array.  (i.e. addMovie('Titanic')) adds Titanic to the end of the array.
 
 ```js
-// your answer here
+// 
 ```
 
 function addMovie(newMovie)
