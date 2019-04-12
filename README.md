@@ -175,8 +175,6 @@ console.log(favoriteMovies[2]);
 *   **Write a function** called `addMovie` that takes a parameter of `newMovie` that adds that movie to the end of the array.  (i.e. addMovie('Titanic')) adds Titanic to the end of the array.
 
 ```js
-// 
-```
 
 function addMovie(newMovie)
 {
